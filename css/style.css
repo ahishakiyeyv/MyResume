@@ -111,6 +111,11 @@ body{
 .contactInfo.education h4{
     color:#fff;
     font-weight:300;
+    font-size:0.9rem;
+}
+.contactInfo.education h3{
+    color:#f1f1f1;
+    font-weight:400;
 }
 
 .contactInfo.language .percent
